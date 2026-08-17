@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Okta Ramji Saputra 👋</h1>
+<h1 align="center">Hi there, I'm Okta Ramji Saputra</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Web+Developer;Backend+Developer;Frontend+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
@@ -22,20 +22,20 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-* 💻 Passionate about building modern, responsive, and scalable **web applications**
-* 🔧 Experienced across **Backend and Frontend Development**
-* 🚀 Working with **Laravel, CodeIgniter 4, React.js, Angular, and Node.js**
-* 🗄️ Comfortable with **MySQL and MongoDB**
-* 🧪 Familiar with **application testing and system validation**
-* 📚 Certified in **Full Stack Open** and **JavaScript Essentials**
-* 📄 Published research in a **SINTA 3-indexed journal**
-* 🌱 Always learning and shipping new projects
+- Passionate about building modern, responsive, and scalable web applications
+- Experienced across Backend and Frontend Development
+- Working with Laravel, CodeIgniter 4, React.js, Angular, and Node.js
+- Comfortable with MySQL and MongoDB
+- Familiar with application testing and system validation
+- Certified in Full Stack Open and JavaScript Essentials
+- Published research in a SINTA 3-indexed journal
+- Always learning and shipping new projects
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -62,54 +62,50 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 📌 SiJoker — Worker Network Information System
+**SiJoker — Worker Network Information System**
 Web-based information system for managing job seeker and training data, developed using the prototyping method.
-**Tech:** Laravel · PHP · MySQL · JavaScript
-🔗 [Repository](https://bit.ly/github-tugasakhir)
+Tech: Laravel · PHP · MySQL · JavaScript
+[Repository](https://bit.ly/github-tugasakhir)
 
-#### 📌 Vehicle Booking System
+**Vehicle Booking System**
 Web application for vehicle booking and management with driver assignment, multi-level approval, monitoring dashboard, and reporting.
-**Tech:** CodeIgniter 4 · Angular · MySQL
-🔗 [Repository](https://bit.ly/vehicle-booking-system)
+Tech: CodeIgniter 4 · Angular · MySQL
+[Repository](https://bit.ly/vehicle-booking-system)
 
-#### 📌 Toko Listrik Berkah
+**Toko Listrik Berkah**
 Web-based POS and inventory system with stock monitoring, sales analytics, admin panel, and digital receipts.
-**Tech:** React.js · Node.js · MongoDB · Vite
-🔗 [Repository](https://bit.ly/toko-listrik-blitar)
+Tech: React.js · Node.js · MongoDB · Vite
+[Repository](https://bit.ly/toko-listrik-blitar)
 
-#### 📌 FlowBoost
+**FlowBoost**
 Mobile application featuring motivational videos with responsive interfaces and user-friendly design.
-**Tech:** Flutter · Figma
-🔗 [Application](https://bit.ly/flowboost-app) · [Design](https://bit.ly/flowboost-design)
+Tech: Flutter · Figma
+[Application](https://bit.ly/flowboost-app) · [Design](https://bit.ly/flowboost-design)
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-* **Full Stack Open** — University of Helsinki & Houston Inc. → [Certificate](https://bit.ly/sertifikat-fullstackopen)
-* **JavaScript Essentials 1 & 2** — Cisco Networking Academy → [Certificate](https://bit.ly/sertifikat-javascript)
+- Full Stack Open — University of Helsinki & Houston Inc. → [Certificate](https://bit.ly/sertifikat-fullstackopen)
+- JavaScript Essentials 1 & 2 — Cisco Networking Academy → [Certificate](https://bit.ly/sertifikat-javascript)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okttaacx&show_icons=true&theme=radical&hide_border=true" alt="Okta's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okttaacx&theme=radical&hide_border=true" alt="Okta's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okttaacx&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okttaacx&show_icons=true&theme=default&hide_border=true" alt="Okta's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okttaacx&theme=default&hide_border=true" alt="Okta's GitHub Streak" height="165"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/okttaacx/okttaacx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
+  <b>Thanks for visiting my profile.</b>
 </p>
